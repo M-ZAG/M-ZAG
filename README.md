@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @M-ZAG
-- 👀 I’m interested in ... just a bit of Salesforce Apex
-- 🌱 I’m currently learning ... Salesforce Admin course
+- 👀 I’m interested in ... Salesforce
+- 🌱 I’m currently learning ... Salesforce Administration
 - 💞️ I’m looking to collaborate on ... not sure yet
-- 📫 How to reach me ... here I guess?
+- 📫 How to reach me ... here
 
 <!---
 M-ZAG/M-ZAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
